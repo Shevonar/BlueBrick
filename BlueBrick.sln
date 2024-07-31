@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueBrick", "BlueBrick\BlueBrick.csproj", "{54CBCBEE-A623-461D-90E6-2A6752062A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueBrick", "BlueBrick\BlueBrick.csproj", "{54CBCBEE-A623-461D-90E6-2A6752062A90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
